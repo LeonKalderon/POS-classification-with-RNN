@@ -1,7 +1,7 @@
 # POS-classification-with-RNN
 
 # Summary
-	The aim of this project is to make a POS Tagger using RNN and a pretrained model ELMo model. 
+	The aim of this project is to make a POS Tagger using RNN and a pretrained ELMo model. 
 # Files
 Below you can find files and description of this files
 1) pos_assign4_RNN_ver_3.py code for RNN model.
